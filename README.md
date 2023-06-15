@@ -1,5 +1,6 @@
-<p align="center">
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+<br>
+<div align="center">
+ <p> 
+ +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+<br>
 @@       o o                                           @@<br>
 @@       | |                                           @@<br>
 @@      _L_L_                                          @@<br>
@@ -18,7 +19,8 @@
 @@ _.-' _j L_ '-._                                     @@<br>
 @@(___.'     '.___)                                    @@<br>
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+<br>
-</p>
+ </p>
+</div>
 <h1 align="center">Hi 👋, I'm Tanmaiii</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
