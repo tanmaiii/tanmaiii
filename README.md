@@ -39,6 +39,4 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tanmaiii&theme=tokyonight&hide_border=true&show_icons=true&hide_title=false&disable_animations=false&hide_rank=false&rank_icon=default&hide=&show=&locale=EN" />
 </div>
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=tanmaiii&theme=tokyonight&hide_border=true&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&mode=daily&locale=EN" />
-</div>
+
