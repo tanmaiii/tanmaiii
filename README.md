@@ -49,6 +49,3 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmaiii&theme=tokyonight&hide_border=true&hide_title=false&langs_count=5&locale=EN" />
 </div>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmaiii&theme=tokyo-night&hide_border=true&height=400&area=true&custom_title=&hide_title=false&radius=0&active=true&align=center" />
-</div>
