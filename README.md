@@ -1,14 +1,12 @@
-<h1 align="center">
+<p align="center">
     Hi 👋, I'm Tấn Mãi.
-</h1>
+</p>
 <h3 align="center">
     Tech Stack
 </h3>
-<div align="center"><img src="https://api.iconify.design/devicon/html5.svg" alt="devicon:html5" height="40" />
+<div align="center"><img src="https://api.iconify.design/devicon/javascript.svg" alt="devicon:javascript" height="40" />
     <img width="10" />
-    <img src="https://api.iconify.design/devicon/css3.svg" alt="devicon:css3" height="40" />
-    <img width="10" />
-    <img src="https://api.iconify.design/devicon/javascript.svg" alt="devicon:javascript" height="40" />
+    <img src="https://api.iconify.design/skill-icons/sass.svg" alt="skill-icons:sass" height="40" />
     <img width="10" />
     <img src="https://api.iconify.design/devicon/react.svg" alt="devicon:react" height="40" />
     <img width="10" />
@@ -16,11 +14,23 @@
     <img width="10" />
     <img src="https://api.iconify.design/simple-icons/expo.svg" alt="simple-icons:expo" height="40" />
     <img width="10" />
-    <img src="https://api.iconify.design/devicon/c.svg" alt="devicon:c" height="40" />
-    <img width="10" />
     <img src="https://api.iconify.design/logos/mysql.svg" alt="logos:mysql" height="40" />
     <img width="10" />
-    <img src="https://api.iconify.design/skill-icons/sass.svg" alt="skill-icons:sass" height="40" />
+    <img src="https://api.iconify.design/devicon/typescript.svg" alt="devicon:typescript" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/skill-icons/docker.svg" alt="skill-icons:docker" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/logos/firebase.svg" alt="logos:firebase" height="40" />
+</div>
+<div align="center"><img src="https://api.iconify.design/devicon/photoshop.svg" alt="devicon:photoshop" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/skill-icons/illustrator.svg" alt="skill-icons:illustrator" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/logos/figma.svg" alt="logos:figma" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/logos/visual-studio-code.svg" alt="logos:visual-studio-code" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/mage/github.svg" alt="mage:github" height="40" />
 </div>
 <h3 align="center">
     Contact
@@ -34,9 +44,11 @@
     </a>
 </div>
 <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xpZG8zbW1ha2UzY3l5d2s2aXk4MjNveXQ0dHNraGozNjl6dmZ1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bTVH8Xo4Wo0alEs2fW/giphy.gif" width="500" />
-</div>
-<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tanmaiii&theme=tokyonight&hide_border=true&show_icons=true&hide_title=false&disable_animations=false&hide_rank=false&rank_icon=default&hide=&show=&locale=EN" />
 </div>
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmaiii&theme=tokyonight&hide_border=true&hide_title=false&langs_count=5&locale=EN" />
+</div>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmaiii&theme=tokyo-night&hide_border=true&height=400&area=true&custom_title=&hide_title=false&radius=0&active=true&align=center" />
+</div>
