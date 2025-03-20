@@ -40,7 +40,10 @@ _Web Developer_
   <li>Learning mobile web development techniques for responsive design.</li>
 </ul>
 
+
 <br />
+
+___
 
 <!--Github stats Table-->
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
@@ -55,14 +58,14 @@ _Web Developer_
         </a>
       </p>
     </td>
-    <td width="50%">
+    <!-- <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/tanmaiii">
           <img align="center" src="https://streak-stats.demolab.com?user=tanmaiii&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
-    </td>
+    </td> -->
   </tr>
 </table>
      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
