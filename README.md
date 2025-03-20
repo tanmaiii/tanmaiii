@@ -14,7 +14,7 @@ _Web Developer_
 <p>Contact with me:</p>
 
 - Scholl: Tra Vinh University
-- Mail: dinhtanmaivn@gmail.com 
+- Mail: dinhtanmaivn@gmail.com
 
 <!--Profile Count Badge-->
 <p align="left">
@@ -32,13 +32,14 @@ _Web Developer_
 </picture>
 <br />
 
-### Current Learning
-- Exploring advanced Next.js patterns and state management techniques.
-- Improving my skills in cloud computing.
-- Enhancing my web development skills with modern frameworks.
-- Learning mobile web development techniques for responsive design.
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Exploring advanced Next.js patterns and state management techniques.</li>
+  <li>Improving my skills in cloud computing</li>
+  <li>Enhancing my web development skills with modern frameworks.</li>
+  <li>Learning mobile web development techniques for responsive design.</li>
 </ul>
-  
+
 <br />
 
 <!--Github stats Table-->
@@ -63,25 +64,13 @@ _Web Developer_
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/tanmaiii/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaiii&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+</table>
+     <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/tanmaiii">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=tanmaiii&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
-    </td>
-  </tr>
-</table>
 <br />
 
 <!--Contribution Graph-->
